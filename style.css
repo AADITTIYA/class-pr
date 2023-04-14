@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    
+}
+
+.heading{
+    font-size: 20px;
+    color: darkorchid;
+}
+#button{
+    background-color: brown;
+    color: rgb(25, 109, 177);
+}
+
+canvas{
+    border: 5px black solid;
+    border-radius: 35px;
+    box-shadow: 20px,20px,goldenrod;
+}
+.footer{
+    width: 100%;
+    color: rgb(202, 52, 165);
+    background-color: yellow;
+    border: 5px black solid;
+    position: absolute;
+    bottom: 0;
+}
+
+
